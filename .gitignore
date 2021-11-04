@@ -3,3 +3,26 @@
 .env
 *.pyc
 
+# React
+# dependencies
+pkg/frontend/node_modules
+pkg/frontend/.pnp
+pkg/frontend/.pnp.js
+
+# testing
+pkg/frontend/coverage
+
+# production
+pkg/frontend/build
+
+# misc
+pkg/frontend/.DS_Store
+pkg/frontend/.env.local
+pkg/frontend/.env.development.local
+pkg/frontend/.env.test.local
+pkg/frontend/.env.production.local
+
+pkg/frontend/npm-debug.log*
+pkg/frontend/yarn-debug.log*
+pkg/frontend/yarn-error.log*
+
