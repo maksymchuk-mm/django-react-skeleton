@@ -2,6 +2,9 @@
 .idea/
 .env
 *.pyc
+*.sqlite3
+
+pkg/static/
 
 # React
 # dependencies
